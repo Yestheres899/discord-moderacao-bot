@@ -1,0 +1,2229 @@
+{
+  "id": "1779899260224",
+  "createdAt": 1779899260224,
+  "guildId": "1403916855231516763",
+  "guildName": "𝗣𝗿𝗶𝗺𝗼𝗿𝗱𝗶𝘂𝗺 𝗫𝗣",
+  "iconURL": "https://cdn.discordapp.com/icons/1403916855231516763/48051b966c5854f28830517fa1548d55.webp?size=512",
+  "description": null,
+  "verificationLevel": 1,
+  "defaultMessageNotifications": 1,
+  "explicitContentFilter": 2,
+  "afkTimeout": 300,
+  "everyonePermissions": "814055320571457",
+  "roles": [
+    {
+      "name": "👑Rei",
+      "color": 15844367,
+      "hoist": false,
+      "mentionable": false,
+      "permissions": "0",
+      "position": 2
+    },
+    {
+      "name": "DBfn",
+      "color": 10181046,
+      "hoist": false,
+      "mentionable": false,
+      "permissions": "0",
+      "position": 5
+    },
+    {
+      "name": "Cúpido Caprichoso",
+      "color": 0,
+      "hoist": false,
+      "mentionable": false,
+      "permissions": "0",
+      "position": 7
+    },
+    {
+      "name": "novo cargo",
+      "color": 2895665,
+      "hoist": false,
+      "mentionable": false,
+      "permissions": "0",
+      "position": 8
+    },
+    {
+      "name": "Cor de Alte :)",
+      "color": 11659142,
+      "hoist": false,
+      "mentionable": false,
+      "permissions": "0",
+      "position": 10
+    },
+    {
+      "name": "Rei de todos os Reis Surfista Prateado😉",
+      "color": 0,
+      "hoist": false,
+      "mentionable": false,
+      "permissions": "0",
+      "position": 11
+    },
+    {
+      "name": ".",
+      "color": 3223857,
+      "hoist": false,
+      "mentionable": false,
+      "permissions": "0",
+      "position": 12
+    },
+    {
+      "name": "Poketwo",
+      "color": 0,
+      "hoist": false,
+      "mentionable": false,
+      "permissions": "0",
+      "position": 14
+    },
+    {
+      "name": "BJ",
+      "color": 0,
+      "hoist": false,
+      "mentionable": false,
+      "permissions": "0",
+      "position": 15
+    },
+    {
+      "name": "BJ",
+      "color": 0,
+      "hoist": false,
+      "mentionable": false,
+      "permissions": "0",
+      "position": 16
+    },
+    {
+      "name": "Vermelho",
+      "color": 16059404,
+      "hoist": false,
+      "mentionable": false,
+      "permissions": "8864262743130103",
+      "position": 18
+    },
+    {
+      "name": "Bump",
+      "color": 0,
+      "hoist": false,
+      "mentionable": false,
+      "permissions": "0",
+      "position": 22
+    },
+    {
+      "name": "InkOnyx",
+      "color": 0,
+      "hoist": false,
+      "mentionable": false,
+      "permissions": "8864262743129599",
+      "position": 25
+    },
+    {
+      "name": "every-nyan",
+      "color": 0,
+      "hoist": false,
+      "mentionable": false,
+      "permissions": "0",
+      "position": 29
+    },
+    {
+      "name": "_____Gerais___⬇️",
+      "color": 0,
+      "hoist": false,
+      "mentionable": false,
+      "permissions": "0",
+      "position": 30
+    },
+    {
+      "name": "Ping Avisos",
+      "color": 0,
+      "hoist": false,
+      "mentionable": true,
+      "permissions": "0",
+      "position": 31
+    },
+    {
+      "name": "Ping Pixelmon",
+      "color": 0,
+      "hoist": false,
+      "mentionable": true,
+      "permissions": "0",
+      "position": 32
+    },
+    {
+      "name": "Ping Revive",
+      "color": 0,
+      "hoist": false,
+      "mentionable": true,
+      "permissions": "0",
+      "position": 33
+    },
+    {
+      "name": "Ping Dbz Final",
+      "color": 0,
+      "hoist": false,
+      "mentionable": true,
+      "permissions": "0",
+      "position": 34
+    },
+    {
+      "name": "Ping Sakura Sand",
+      "color": 0,
+      "hoist": false,
+      "mentionable": true,
+      "permissions": "0",
+      "position": 35
+    },
+    {
+      "name": "Ping GPO",
+      "color": 0,
+      "hoist": false,
+      "mentionable": true,
+      "permissions": "0",
+      "position": 36
+    },
+    {
+      "name": "Ping Roblox",
+      "color": 0,
+      "hoist": false,
+      "mentionable": true,
+      "permissions": "0",
+      "position": 37
+    },
+    {
+      "name": "Ping Minecraft",
+      "color": 0,
+      "hoist": false,
+      "mentionable": true,
+      "permissions": "0",
+      "position": 38
+    },
+    {
+      "name": "_____Pings___⬇️",
+      "color": 0,
+      "hoist": false,
+      "mentionable": false,
+      "permissions": "0",
+      "position": 39
+    },
+    {
+      "name": "✅𝐕𝐞𝐫𝐢𝐟𝐢𝐜𝐚𝐝𝐨✅",
+      "color": 0,
+      "hoist": false,
+      "mentionable": false,
+      "permissions": "0",
+      "position": 41
+    },
+    {
+      "name": "_____Útilidade___⬇️",
+      "color": 0,
+      "hoist": false,
+      "mentionable": false,
+      "permissions": "0",
+      "position": 42
+    },
+    {
+      "name": "Azul escuro",
+      "color": 5587189,
+      "hoist": false,
+      "mentionable": false,
+      "permissions": "0",
+      "position": 43
+    },
+    {
+      "name": "vermelho",
+      "color": 16059404,
+      "hoist": false,
+      "mentionable": false,
+      "permissions": "0",
+      "position": 44
+    },
+    {
+      "name": "ciano",
+      "color": 65269,
+      "hoist": false,
+      "mentionable": false,
+      "permissions": "0",
+      "position": 45
+    },
+    {
+      "name": "azul",
+      "color": 809861,
+      "hoist": false,
+      "mentionable": false,
+      "permissions": "0",
+      "position": 46
+    },
+    {
+      "name": "Amarelo",
+      "color": 16711593,
+      "hoist": false,
+      "mentionable": false,
+      "permissions": "0",
+      "position": 47
+    },
+    {
+      "name": "roxo",
+      "color": 12296427,
+      "hoist": false,
+      "mentionable": false,
+      "permissions": "0",
+      "position": 48
+    },
+    {
+      "name": "rosa",
+      "color": 16747708,
+      "hoist": false,
+      "mentionable": false,
+      "permissions": "0",
+      "position": 49
+    },
+    {
+      "name": "verde",
+      "color": 4621652,
+      "hoist": false,
+      "mentionable": false,
+      "permissions": "0",
+      "position": 50
+    },
+    {
+      "name": "DOURADOO",
+      "color": 15844367,
+      "hoist": false,
+      "mentionable": false,
+      "permissions": "0",
+      "position": 51
+    },
+    {
+      "name": "Sky Colors",
+      "color": 16711795,
+      "hoist": false,
+      "mentionable": false,
+      "permissions": "0",
+      "position": 52
+    },
+    {
+      "name": "_____Cores___⬇️",
+      "color": 0,
+      "hoist": false,
+      "mentionable": false,
+      "permissions": "0",
+      "position": 53
+    },
+    {
+      "name": "🤖𝐛𝐨𝐭🤖",
+      "color": 8569062,
+      "hoist": true,
+      "mentionable": true,
+      "permissions": "8",
+      "position": 59
+    },
+    {
+      "name": "𝗔𝗹𝘁𝗶𝘀𝘁𝗶𝗻𝗵𝗮",
+      "color": 0,
+      "hoist": false,
+      "mentionable": false,
+      "permissions": "0",
+      "position": 60
+    },
+    {
+      "name": "𝐔𝐫𝐬𝐨 𝐃'𝐚𝐠𝐮𝐚",
+      "color": 0,
+      "hoist": false,
+      "mentionable": false,
+      "permissions": "0",
+      "position": 61
+    },
+    {
+      "name": "🌹𝐅𝐞𝐦𝐢𝐧𝐢𝐧𝐨🌹",
+      "color": 0,
+      "hoist": false,
+      "mentionable": false,
+      "permissions": "0",
+      "position": 62
+    },
+    {
+      "name": "🚗 𝐌𝐚𝐬𝐜𝐮𝐥𝐢𝐧𝐨 🚗",
+      "color": 0,
+      "hoist": false,
+      "mentionable": false,
+      "permissions": "0",
+      "position": 63
+    },
+    {
+      "name": "🧑‍🦱𝐌𝐞𝐦𝐛𝐫𝐨🧑‍🦱",
+      "color": 0,
+      "hoist": true,
+      "mentionable": false,
+      "permissions": "0",
+      "position": 64
+    },
+    {
+      "name": "🧔𝐌𝐞𝐦𝐛𝐫𝐨 𝐅𝐢𝐞𝐥🧔",
+      "color": 0,
+      "hoist": true,
+      "mentionable": true,
+      "permissions": "0",
+      "position": 65
+    },
+    {
+      "name": "𝐂𝐨𝐦𝐞𝐝𝐢𝐚𝐧𝐭𝐞",
+      "color": 0,
+      "hoist": true,
+      "mentionable": true,
+      "permissions": "0",
+      "position": 66
+    },
+    {
+      "name": "𝐕𝐚́𝐜𝐮𝐨 𝐈𝐧𝐢𝐜𝐢𝐚𝐥",
+      "color": 0,
+      "hoist": true,
+      "mentionable": true,
+      "permissions": "0",
+      "position": 67
+    },
+    {
+      "name": "𝗠𝗮𝘁𝗲́𝗿𝗶𝗮 𝗣𝘂𝗿𝗮",
+      "color": 0,
+      "hoist": true,
+      "mentionable": true,
+      "permissions": "0",
+      "position": 68
+    },
+    {
+      "name": "𝐅𝐚𝐢́𝐬𝐜𝐚 𝐕𝐢𝐭𝐚𝐥",
+      "color": 0,
+      "hoist": true,
+      "mentionable": true,
+      "permissions": "0",
+      "position": 69
+    },
+    {
+      "name": "𝐄𝐜𝐨 𝐏𝐫𝐢𝐦𝐨𝐫𝐝𝐢𝐚𝐥",
+      "color": 0,
+      "hoist": true,
+      "mentionable": true,
+      "permissions": "0",
+      "position": 70
+    },
+    {
+      "name": "Admirador",
+      "color": 0,
+      "hoist": true,
+      "mentionable": true,
+      "permissions": "0",
+      "position": 71
+    },
+    {
+      "name": "𝗘𝘀𝘀𝗲̂𝗻𝗰𝗶𝗮 𝗧𝗲𝗰𝗶𝗱𝗮",
+      "color": 0,
+      "hoist": true,
+      "mentionable": true,
+      "permissions": "0",
+      "position": 72
+    },
+    {
+      "name": "𝗔𝗿𝗾𝘂𝗶𝘁𝗲𝘁𝗼 𝗱𝗼 𝗖𝗮𝗼𝘀",
+      "color": 0,
+      "hoist": true,
+      "mentionable": true,
+      "permissions": "0",
+      "position": 73
+    },
+    {
+      "name": "𝐆𝐮𝐚𝐫𝐝𝐢𝐚̃𝐨 𝐝𝐨 𝐄́𝐭𝐞𝐫",
+      "color": 0,
+      "hoist": true,
+      "mentionable": true,
+      "permissions": "0",
+      "position": 74
+    },
+    {
+      "name": "𝗦𝗼𝗯𝗲𝗿𝗮𝗻𝗼 𝗱𝗮 𝗢𝗿𝗶𝗴𝗲𝗺",
+      "color": 0,
+      "hoist": true,
+      "mentionable": true,
+      "permissions": "0",
+      "position": 75
+    },
+    {
+      "name": "𝗘𝗻𝘁𝗶𝗱𝗮𝗱𝗲 𝗔𝗻𝗰𝗲𝘀𝘁𝗿𝗮𝗹",
+      "color": 0,
+      "hoist": true,
+      "mentionable": true,
+      "permissions": "0",
+      "position": 76
+    },
+    {
+      "name": "𝗣𝗿𝗶𝗺𝗼𝗿𝗱𝗶𝘂𝗺",
+      "color": 0,
+      "hoist": false,
+      "mentionable": false,
+      "permissions": "0",
+      "position": 77
+    },
+    {
+      "name": "🎉𝐒𝐞𝐫𝐯𝐞 𝐁𝐨𝐨𝐬𝐭𝐞𝐫🎉",
+      "color": 0,
+      "hoist": true,
+      "mentionable": true,
+      "permissions": "0",
+      "position": 78
+    },
+    {
+      "name": "_____Titulos_____⬇️",
+      "color": 0,
+      "hoist": false,
+      "mentionable": false,
+      "permissions": "0",
+      "position": 79
+    },
+    {
+      "name": "Sky",
+      "color": 0,
+      "hoist": false,
+      "mentionable": false,
+      "permissions": "8864262743130111",
+      "position": 80
+    },
+    {
+      "name": "𝐁𝐨𝐭 𝐌𝐞𝐬𝐭𝐫𝐞",
+      "color": 14784235,
+      "hoist": true,
+      "mentionable": true,
+      "permissions": "8",
+      "position": 81
+    },
+    {
+      "name": "🛠️𝐌𝐨𝐝𝐞𝐫𝐚𝐝𝐨𝐫🛠️",
+      "color": 0,
+      "hoist": true,
+      "mentionable": true,
+      "permissions": "1099540989062",
+      "position": 82
+    },
+    {
+      "name": "🛠️𝐌𝐨𝐝𝐞𝐫𝐚𝐝𝐨r🛠️",
+      "color": 0,
+      "hoist": false,
+      "mentionable": false,
+      "permissions": "1099540988038",
+      "position": 83
+    },
+    {
+      "name": "⚙️𝐄𝐧𝐠𝐞𝐧𝐡𝐞𝐢𝐫o⚙️",
+      "color": 0,
+      "hoist": false,
+      "mentionable": false,
+      "permissions": "8",
+      "position": 84
+    },
+    {
+      "name": "⚙️𝐄𝐧𝐠𝐞𝐧𝐡𝐞𝐢𝐫𝐚⚙️",
+      "color": 0,
+      "hoist": true,
+      "mentionable": true,
+      "permissions": "8863163000684529",
+      "position": 85
+    },
+    {
+      "name": "_____Especiais___⬇️",
+      "color": 0,
+      "hoist": false,
+      "mentionable": false,
+      "permissions": "0",
+      "position": 86
+    },
+    {
+      "name": "Sunny",
+      "color": 0,
+      "hoist": false,
+      "mentionable": false,
+      "permissions": "8",
+      "position": 97
+    },
+    {
+      "name": "_____BOTS_____⬇️",
+      "color": 0,
+      "hoist": false,
+      "mentionable": false,
+      "permissions": "0",
+      "position": 99
+    },
+    {
+      "name": "🛠️𝐒𝐮𝐛 𝐎𝐰𝐧𝐞𝐫 🛠️",
+      "color": 0,
+      "hoist": true,
+      "mentionable": true,
+      "permissions": "8477234650152951",
+      "position": 100
+    },
+    {
+      "name": "🛠️𝐎𝐰𝐧𝐞𝐫 / 𝐂𝐫𝐞𝐚𝐭𝐨𝐫🛠️",
+      "color": 5533306,
+      "hoist": true,
+      "mentionable": true,
+      "permissions": "8864262743130111",
+      "position": 101
+    }
+  ],
+  "channels": [
+    {
+      "name": "🪐𝗜𝗻𝗶𝗰𝗶𝗼🪐",
+      "type": 4,
+      "position": 0,
+      "permissionOverwrites": [
+        {
+          "type": 0,
+          "id": "novo cargo",
+          "allow": "0",
+          "deny": "377959221312"
+        },
+        {
+          "type": 0,
+          "id": "@everyone",
+          "allow": "0",
+          "deny": "0"
+        }
+      ]
+    },
+    {
+      "name": "‼️𝐈𝐦𝐩𝐨𝐫𝐭𝐚𝐧𝐭𝐞‼️",
+      "type": 4,
+      "position": 1,
+      "permissionOverwrites": [
+        {
+          "type": 0,
+          "id": "novo cargo",
+          "allow": "0",
+          "deny": "377959221312"
+        }
+      ]
+    },
+    {
+      "name": "💲•  𝐑𝐨𝐛𝐮𝐱",
+      "type": 4,
+      "position": 2,
+      "permissionOverwrites": [
+        {
+          "type": 0,
+          "id": "novo cargo",
+          "allow": "0",
+          "deny": "377959221312"
+        },
+        {
+          "type": 0,
+          "id": "@everyone",
+          "allow": "0",
+          "deny": "1024"
+        }
+      ]
+    },
+    {
+      "name": "📓𝐑𝐞𝐠𝐢𝐬𝐭𝐫𝐨📓",
+      "type": 4,
+      "position": 3,
+      "permissionOverwrites": [
+        {
+          "type": 0,
+          "id": "novo cargo",
+          "allow": "0",
+          "deny": "377959221312"
+        }
+      ]
+    },
+    {
+      "name": "🪐-𝗖𝗲𝗻𝘁𝗿𝗼-🪐",
+      "type": 4,
+      "position": 4,
+      "permissionOverwrites": [
+        {
+          "type": 0,
+          "id": "novo cargo",
+          "allow": "0",
+          "deny": "377959221312"
+        },
+        {
+          "type": 0,
+          "id": "✅𝐕𝐞𝐫𝐢𝐟𝐢𝐜𝐚𝐝𝐨✅",
+          "allow": "4332765192773441",
+          "deny": "4521600670113808"
+        },
+        {
+          "type": 0,
+          "id": "@everyone",
+          "allow": "0",
+          "deny": "8854365862887249"
+        }
+      ]
+    },
+    {
+      "name": "𝐁𝐨𝐭𝐬",
+      "type": 4,
+      "position": 5,
+      "permissionOverwrites": [
+        {
+          "type": 0,
+          "id": "novo cargo",
+          "allow": "0",
+          "deny": "377959221312"
+        },
+        {
+          "type": 0,
+          "id": "✅𝐕𝐞𝐫𝐢𝐟𝐢𝐜𝐚𝐝𝐨✅",
+          "allow": "4332765192771393",
+          "deny": "4521600670115856"
+        },
+        {
+          "type": 0,
+          "id": "@everyone",
+          "allow": "0",
+          "deny": "8854365862887249"
+        }
+      ]
+    },
+    {
+      "name": "📞𝐂𝐚𝐥𝐥📞",
+      "type": 4,
+      "position": 6,
+      "permissionOverwrites": [
+        {
+          "type": 0,
+          "id": "novo cargo",
+          "allow": "0",
+          "deny": "377959221312"
+        },
+        {
+          "type": 0,
+          "id": "✅𝐕𝐞𝐫𝐢𝐟𝐢𝐜𝐚𝐝𝐨✅",
+          "allow": "4332765192771393",
+          "deny": "4521600670115856"
+        },
+        {
+          "type": 0,
+          "id": "@everyone",
+          "allow": "0",
+          "deny": "8854365862887249"
+        }
+      ]
+    },
+    {
+      "name": "🛠️𝗠𝗼𝗱𝗲𝗿𝗮𝗰̧𝗮̃𝗼🛠️",
+      "type": 4,
+      "position": 7,
+      "permissionOverwrites": [
+        {
+          "type": 0,
+          "id": "novo cargo",
+          "allow": "0",
+          "deny": "377959221312"
+        }
+      ]
+    },
+    {
+      "name": "𝐏𝐚𝐫𝐜𝐞𝐫𝐢𝐚𝐬",
+      "type": 4,
+      "position": 8,
+      "permissionOverwrites": [
+        {
+          "type": 0,
+          "id": "novo cargo",
+          "allow": "0",
+          "deny": "377959221312"
+        }
+      ]
+    },
+    {
+      "name": "Tickets",
+      "type": 4,
+      "position": 9,
+      "permissionOverwrites": [
+        {
+          "type": 0,
+          "id": "novo cargo",
+          "allow": "0",
+          "deny": "377959221312"
+        },
+        {
+          "type": 0,
+          "id": "⚙️𝐄𝐧𝐠𝐞𝐧𝐡𝐞𝐢𝐫𝐚⚙️",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "type": 0,
+          "id": "@everyone",
+          "allow": "0",
+          "deny": "1049600"
+        }
+      ]
+    },
+    {
+      "name": "Staff priv",
+      "type": 4,
+      "position": 10,
+      "permissionOverwrites": [
+        {
+          "type": 0,
+          "id": "🛠️𝐌𝐨𝐝𝐞𝐫𝐚𝐝𝐨𝐫🛠️",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "type": 0,
+          "id": "🛠️𝐌𝐨𝐝𝐞𝐫𝐚𝐝𝐨r🛠️",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "type": 0,
+          "id": "novo cargo",
+          "allow": "0",
+          "deny": "377959221312"
+        },
+        {
+          "type": 0,
+          "id": "⚙️𝐄𝐧𝐠𝐞𝐧𝐡𝐞𝐢𝐫𝐚⚙️",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "type": 0,
+          "id": "@everyone",
+          "allow": "0",
+          "deny": "1049600"
+        }
+      ]
+    },
+    {
+      "name": "🛠️𝐀𝐯𝐢𝐬𝐨𝐬🛠️",
+      "type": 0,
+      "position": 0,
+      "permissionOverwrites": [
+        {
+          "type": 0,
+          "id": "novo cargo",
+          "allow": "0",
+          "deny": "377959221312"
+        },
+        {
+          "type": 0,
+          "id": "✅𝐕𝐞𝐫𝐢𝐟𝐢𝐜𝐚𝐝𝐨✅",
+          "allow": "1024",
+          "deny": "0"
+        },
+        {
+          "type": 0,
+          "id": "Sky",
+          "allow": "1024",
+          "deny": "0"
+        },
+        {
+          "type": 0,
+          "id": "@everyone",
+          "allow": "0",
+          "deny": "3072"
+        }
+      ],
+      "categoryName": "🛠️𝗠𝗼𝗱𝗲𝗿𝗮𝗰̧𝗮̃𝗼🛠️",
+      "nsfw": false,
+      "rateLimitPerUser": 0
+    },
+    {
+      "name": "🚪𝐄𝐧𝐭𝐫𝐚𝐝𝐚🚪",
+      "type": 0,
+      "position": 0,
+      "permissionOverwrites": [
+        {
+          "type": 0,
+          "id": "novo cargo",
+          "allow": "0",
+          "deny": "377959221312"
+        },
+        {
+          "type": 0,
+          "id": "@everyone",
+          "allow": "0",
+          "deny": "2048"
+        }
+      ],
+      "categoryName": "🪐𝗜𝗻𝗶𝗰𝗶𝗼🪐",
+      "nsfw": false,
+      "rateLimitPerUser": 0
+    },
+    {
+      "name": "Reuniao",
+      "type": 2,
+      "position": 0,
+      "permissionOverwrites": [
+        {
+          "type": 0,
+          "id": "🛠️𝐌𝐨𝐝𝐞𝐫𝐚𝐝𝐨𝐫🛠️",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "type": 0,
+          "id": "🛠️𝐌𝐨𝐝𝐞𝐫𝐚𝐝𝐨r🛠️",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "type": 0,
+          "id": "novo cargo",
+          "allow": "0",
+          "deny": "377959221312"
+        },
+        {
+          "type": 0,
+          "id": "⚙️𝐄𝐧𝐠𝐞𝐧𝐡𝐞𝐢𝐫𝐚⚙️",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "type": 0,
+          "id": "@everyone",
+          "allow": "0",
+          "deny": "1049600"
+        }
+      ],
+      "categoryName": "Staff priv",
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "userLimit": 0,
+      "bitrate": 64000
+    },
+    {
+      "name": "𝐁𝐞𝐚𝐜𝐨-𝐁𝐨𝐭",
+      "type": 0,
+      "position": 0,
+      "permissionOverwrites": [
+        {
+          "type": 0,
+          "id": "novo cargo",
+          "allow": "0",
+          "deny": "377959221312"
+        },
+        {
+          "type": 1,
+          "id": "1490904810940010539",
+          "allow": "0",
+          "deny": "0"
+        },
+        {
+          "type": 0,
+          "id": "✅𝐕𝐞𝐫𝐢𝐟𝐢𝐜𝐚𝐝𝐨✅",
+          "allow": "4332765192773441",
+          "deny": "4521600670113808"
+        },
+        {
+          "type": 0,
+          "id": "@everyone",
+          "allow": "0",
+          "deny": "8854365862887249"
+        }
+      ],
+      "categoryName": "𝐁𝐨𝐭𝐬",
+      "nsfw": false,
+      "rateLimitPerUser": 0
+    },
+    {
+      "name": "chat-staff",
+      "type": 0,
+      "position": 0,
+      "permissionOverwrites": [
+        {
+          "type": 0,
+          "id": "🛠️𝐌𝐨𝐝𝐞𝐫𝐚𝐝𝐨𝐫🛠️",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "type": 0,
+          "id": "novo cargo",
+          "allow": "0",
+          "deny": "377959221312"
+        },
+        {
+          "type": 0,
+          "id": "🛠️𝐌𝐨𝐝𝐞𝐫𝐚𝐝𝐨r🛠️",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "type": 0,
+          "id": "Admirador",
+          "allow": "52288",
+          "deny": "0"
+        },
+        {
+          "type": 0,
+          "id": "⚙️𝐄𝐧𝐠𝐞𝐧𝐡𝐞𝐢𝐫𝐚⚙️",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "type": 0,
+          "id": "@everyone",
+          "allow": "0",
+          "deny": "1049600"
+        }
+      ],
+      "categoryName": "Staff priv",
+      "nsfw": false,
+      "rateLimitPerUser": 0
+    },
+    {
+      "name": "🛠️𝐑𝐞𝐮𝐧𝐢𝐚̃𝐨🛠️",
+      "type": 2,
+      "position": 0,
+      "permissionOverwrites": [
+        {
+          "type": 0,
+          "id": "novo cargo",
+          "allow": "0",
+          "deny": "377959221312"
+        },
+        {
+          "type": 0,
+          "id": "@everyone",
+          "allow": "0",
+          "deny": "1049600"
+        }
+      ],
+      "categoryName": "🛠️𝗠𝗼𝗱𝗲𝗿𝗮𝗰̧𝗮̃𝗼🛠️",
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "userLimit": 0,
+      "bitrate": 64000
+    },
+    {
+      "name": "💲•𝐏𝐚𝐫𝐜𝐞𝐫𝐢𝐚",
+      "type": 0,
+      "position": 0,
+      "permissionOverwrites": [
+        {
+          "type": 0,
+          "id": "novo cargo",
+          "allow": "0",
+          "deny": "377959221312"
+        },
+        {
+          "type": 0,
+          "id": "@everyone",
+          "allow": "0",
+          "deny": "2048"
+        }
+      ],
+      "categoryName": "💲•  𝐑𝐨𝐛𝐮𝐱",
+      "nsfw": false,
+      "rateLimitPerUser": 0
+    },
+    {
+      "name": "Music",
+      "type": 13,
+      "position": 0,
+      "permissionOverwrites": [
+        {
+          "type": 0,
+          "id": "novo cargo",
+          "allow": "0",
+          "deny": "377959221312"
+        },
+        {
+          "type": 1,
+          "id": "830530156048285716",
+          "allow": "20971536",
+          "deny": "0"
+        },
+        {
+          "type": 0,
+          "id": "Lofi Radio",
+          "allow": "20971536",
+          "deny": "0"
+        }
+      ],
+      "categoryName": "📞𝐂𝐚𝐥𝐥📞",
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "userLimit": 10000,
+      "bitrate": 64000
+    },
+    {
+      "name": "logs-bot-robux",
+      "type": 0,
+      "position": 0,
+      "permissionOverwrites": [
+        {
+          "type": 0,
+          "id": "novo cargo",
+          "allow": "0",
+          "deny": "377959221312"
+        },
+        {
+          "type": 0,
+          "id": "@everyone",
+          "allow": "0",
+          "deny": "1024"
+        }
+      ],
+      "nsfw": false,
+      "rateLimitPerUser": 0
+    },
+    {
+      "name": "🎵𝐌𝐮𝐬𝐢𝐜𝐚𝐬🎵",
+      "type": 0,
+      "position": 0,
+      "permissionOverwrites": [
+        {
+          "type": 0,
+          "id": "novo cargo",
+          "allow": "0",
+          "deny": "377959221312"
+        },
+        {
+          "type": 0,
+          "id": "✅𝐕𝐞𝐫𝐢𝐟𝐢𝐜𝐚𝐝𝐨✅",
+          "allow": "4011707760761921",
+          "deny": "4503994764500992"
+        },
+        {
+          "type": 0,
+          "id": "@everyone",
+          "allow": "0",
+          "deny": "8515703330569297"
+        }
+      ],
+      "categoryName": "📞𝐂𝐚𝐥𝐥📞",
+      "nsfw": false,
+      "rateLimitPerUser": 0
+    },
+    {
+      "name": "💬𝐁𝐚𝐭𝐞-𝐩𝐚𝐩𝐨💬",
+      "type": 0,
+      "position": 0,
+      "permissionOverwrites": [
+        {
+          "type": 0,
+          "id": "novo cargo",
+          "allow": "1024",
+          "deny": "377959221312"
+        },
+        {
+          "type": 0,
+          "id": "✅𝐕𝐞𝐫𝐢𝐟𝐢𝐜𝐚𝐝𝐨✅",
+          "allow": "2885255950621696",
+          "deny": "0"
+        },
+        {
+          "type": 1,
+          "id": "1339028661885599828",
+          "allow": "1126451810141184",
+          "deny": "0"
+        },
+        {
+          "type": 1,
+          "id": "1358156237908344922",
+          "allow": "0",
+          "deny": "64"
+        },
+        {
+          "type": 0,
+          "id": "@everyone",
+          "allow": "98368",
+          "deny": "3072"
+        }
+      ],
+      "categoryName": "🪐-𝗖𝗲𝗻𝘁𝗿𝗼-🪐",
+      "topic": "Sem mensagem definida.",
+      "nsfw": false,
+      "rateLimitPerUser": 0
+    },
+    {
+      "name": "bump",
+      "type": 0,
+      "position": 0,
+      "permissionOverwrites": [
+        {
+          "type": 0,
+          "id": "novo cargo",
+          "allow": "0",
+          "deny": "377959221312"
+        }
+      ],
+      "categoryName": "‼️𝐈𝐦𝐩𝐨𝐫𝐭𝐚𝐧𝐭𝐞‼️",
+      "nsfw": false,
+      "rateLimitPerUser": 0
+    },
+    {
+      "name": "✅𝑽𝒆𝒓𝗶𝒇𝒊𝒄𝒂𝒄̧𝒂̃𝒐✅",
+      "type": 0,
+      "position": 0,
+      "permissionOverwrites": [
+        {
+          "type": 0,
+          "id": "novo cargo",
+          "allow": "0",
+          "deny": "377959221312"
+        },
+        {
+          "type": 0,
+          "id": "@everyone",
+          "allow": "0",
+          "deny": "2048"
+        }
+      ],
+      "categoryName": "📓𝐑𝐞𝐠𝐢𝐬𝐭𝐫𝐨📓",
+      "nsfw": false,
+      "rateLimitPerUser": 0
+    },
+    {
+      "name": "🛠️𝗖𝗼𝗻𝗳𝗶𝗴🛠️",
+      "type": 0,
+      "position": 1,
+      "permissionOverwrites": [
+        {
+          "type": 0,
+          "id": "novo cargo",
+          "allow": "0",
+          "deny": "377959221312"
+        },
+        {
+          "type": 1,
+          "id": "1030885435787968622",
+          "allow": "1024",
+          "deny": "0"
+        },
+        {
+          "type": 0,
+          "id": "@everyone",
+          "allow": "0",
+          "deny": "1024"
+        }
+      ],
+      "categoryName": "🛠️𝗠𝗼𝗱𝗲𝗿𝗮𝗰̧𝗮̃𝗼🛠️",
+      "nsfw": false,
+      "rateLimitPerUser": 0
+    },
+    {
+      "name": "📞𝗖𝗮𝗹𝗹 𝟭📞",
+      "type": 2,
+      "position": 1,
+      "permissionOverwrites": [
+        {
+          "type": 1,
+          "id": "184405311681986560",
+          "allow": "2098566989872977",
+          "deny": "0"
+        },
+        {
+          "type": 0,
+          "id": "novo cargo",
+          "allow": "0",
+          "deny": "377959221312"
+        },
+        {
+          "type": 0,
+          "id": "✅𝐕𝐞𝐫𝐢𝐟𝐢𝐜𝐚𝐝𝐨✅",
+          "allow": "2080965379088193",
+          "deny": "17601610784784"
+        },
+        {
+          "type": 0,
+          "id": "@everyone",
+          "allow": "0",
+          "deny": "2098566989872977"
+        }
+      ],
+      "categoryName": "📞𝐂𝐚𝐥𝐥📞",
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "userLimit": 0,
+      "bitrate": 64000
+    },
+    {
+      "name": "𝐀𝐤𝐢𝐧𝐚𝐭𝐨𝐫",
+      "type": 0,
+      "position": 1,
+      "permissionOverwrites": [
+        {
+          "type": 0,
+          "id": "novo cargo",
+          "allow": "0",
+          "deny": "377959221312"
+        },
+        {
+          "type": 0,
+          "id": "✅𝐕𝐞𝐫𝐢𝐟𝐢𝐜𝐚𝐝𝐨✅",
+          "allow": "4011707760761921",
+          "deny": "4503995569807376"
+        },
+        {
+          "type": 0,
+          "id": "@everyone",
+          "allow": "0",
+          "deny": "8515703330569297"
+        }
+      ],
+      "categoryName": "𝐁𝐨𝐭𝐬",
+      "nsfw": false,
+      "rateLimitPerUser": 0
+    },
+    {
+      "name": "cmd",
+      "type": 0,
+      "position": 1,
+      "permissionOverwrites": [
+        {
+          "type": 0,
+          "id": "🛠️𝐌𝐨𝐝𝐞𝐫𝐚𝐝𝐨𝐫🛠️",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "type": 0,
+          "id": "novo cargo",
+          "allow": "0",
+          "deny": "377959221312"
+        },
+        {
+          "type": 0,
+          "id": "🛠️𝐌𝐨𝐝𝐞𝐫𝐚𝐝𝐨r🛠️",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "type": 0,
+          "id": "⚙️𝐄𝐧𝐠𝐞𝐧𝐡𝐞𝐢𝐫𝐚⚙️",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "type": 0,
+          "id": "@everyone",
+          "allow": "0",
+          "deny": "1049600"
+        }
+      ],
+      "categoryName": "Staff priv",
+      "nsfw": false,
+      "rateLimitPerUser": 0
+    },
+    {
+      "name": "📷𝐌𝐢𝐝𝐢𝐚📷",
+      "type": 0,
+      "position": 1,
+      "permissionOverwrites": [
+        {
+          "type": 0,
+          "id": "novo cargo",
+          "allow": "0",
+          "deny": "377959221312"
+        },
+        {
+          "type": 0,
+          "id": "✅𝐕𝐞𝐫𝐢𝐟𝐢𝐜𝐚𝐝𝐨✅",
+          "allow": "2885255950621760",
+          "deny": "0"
+        },
+        {
+          "type": 0,
+          "id": "@everyone",
+          "allow": "0",
+          "deny": "3072"
+        }
+      ],
+      "categoryName": "🪐-𝗖𝗲𝗻𝘁𝗿𝗼-🪐",
+      "nsfw": false,
+      "rateLimitPerUser": 5
+    },
+    {
+      "name": "❗𝐑𝐞𝐠𝐫𝐚𝐬❗",
+      "type": 0,
+      "position": 1,
+      "permissionOverwrites": [
+        {
+          "type": 0,
+          "id": "novo cargo",
+          "allow": "0",
+          "deny": "377959221312"
+        },
+        {
+          "type": 0,
+          "id": "✅𝐕𝐞𝐫𝐢𝐟𝐢𝐜𝐚𝐝𝐨✅",
+          "allow": "1024",
+          "deny": "0"
+        },
+        {
+          "type": 0,
+          "id": "@everyone",
+          "allow": "1024",
+          "deny": "2048"
+        }
+      ],
+      "categoryName": "‼️𝐈𝐦𝐩𝐨𝐫𝐭𝐚𝐧𝐭𝐞‼️",
+      "nsfw": false,
+      "rateLimitPerUser": 0
+    },
+    {
+      "name": "🎙️𝐒𝐞𝐦-𝐦𝐢𝐜🎙️",
+      "type": 0,
+      "position": 1,
+      "permissionOverwrites": [
+        {
+          "type": 0,
+          "id": "novo cargo",
+          "allow": "0",
+          "deny": "377959221312"
+        },
+        {
+          "type": 0,
+          "id": "✅𝐕𝐞𝐫𝐢𝐟𝐢𝐜𝐚𝐝𝐨✅",
+          "allow": "2885255950621761",
+          "deny": "5630447379947536"
+        },
+        {
+          "type": 0,
+          "id": "@everyone",
+          "allow": "0",
+          "deny": "8515703330569297"
+        }
+      ],
+      "categoryName": "📞𝐂𝐚𝐥𝐥📞",
+      "nsfw": false,
+      "rateLimitPerUser": 0
+    },
+    {
+      "name": "🚪𝐒𝐚𝐢𝐝𝐚🚪",
+      "type": 0,
+      "position": 1,
+      "permissionOverwrites": [
+        {
+          "type": 0,
+          "id": "novo cargo",
+          "allow": "0",
+          "deny": "377959221312"
+        },
+        {
+          "type": 0,
+          "id": "@everyone",
+          "allow": "1024",
+          "deny": "2048"
+        }
+      ],
+      "categoryName": "🪐𝗜𝗻𝗶𝗰𝗶𝗼🪐",
+      "nsfw": false,
+      "rateLimitPerUser": 0
+    },
+    {
+      "name": "𝐂𝐡𝐚𝐭-𝐆𝐏𝐭",
+      "type": 0,
+      "position": 2,
+      "permissionOverwrites": [
+        {
+          "type": 0,
+          "id": "novo cargo",
+          "allow": "0",
+          "deny": "377959221312"
+        },
+        {
+          "type": 0,
+          "id": "✅𝐕𝐞𝐫𝐢𝐟𝐢𝐜𝐚𝐝𝐨✅",
+          "allow": "4011707760761921",
+          "deny": "4503995569807376"
+        },
+        {
+          "type": 0,
+          "id": "@everyone",
+          "allow": "0",
+          "deny": "8515703330569297"
+        }
+      ],
+      "categoryName": "𝐁𝐨𝐭𝐬",
+      "nsfw": false,
+      "rateLimitPerUser": 0
+    },
+    {
+      "name": "🛠️𝐋𝐨𝐠𝐬🛠️",
+      "type": 0,
+      "position": 2,
+      "permissionOverwrites": [
+        {
+          "type": 0,
+          "id": "novo cargo",
+          "allow": "0",
+          "deny": "377959221312"
+        },
+        {
+          "type": 0,
+          "id": "@everyone",
+          "allow": "0",
+          "deny": "1024"
+        }
+      ],
+      "categoryName": "🛠️𝗠𝗼𝗱𝗲𝗿𝗮𝗰̧𝗮̃𝗼🛠️",
+      "nsfw": false,
+      "rateLimitPerUser": 0
+    },
+    {
+      "name": "ban-pendentes",
+      "type": 0,
+      "position": 2,
+      "permissionOverwrites": [
+        {
+          "type": 0,
+          "id": "novo cargo",
+          "allow": "0",
+          "deny": "377959221312"
+        },
+        {
+          "type": 0,
+          "id": "@everyone",
+          "allow": "0",
+          "deny": "1024"
+        }
+      ],
+      "categoryName": "Staff priv",
+      "nsfw": false,
+      "rateLimitPerUser": 0
+    },
+    {
+      "name": "📞𝗖𝗮𝗹𝗹 𝟮📞",
+      "type": 2,
+      "position": 2,
+      "permissionOverwrites": [
+        {
+          "type": 0,
+          "id": "novo cargo",
+          "allow": "0",
+          "deny": "377959221312"
+        },
+        {
+          "type": 0,
+          "id": "✅𝐕𝐞𝐫𝐢𝐟𝐢𝐜𝐚𝐝𝐨✅",
+          "allow": "2080965379088193",
+          "deny": "17601610784784"
+        },
+        {
+          "type": 0,
+          "id": "@everyone",
+          "allow": "0",
+          "deny": "2098566989872977"
+        }
+      ],
+      "categoryName": "📞𝐂𝐚𝐥𝐥📞",
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "userLimit": 0,
+      "bitrate": 64000
+    },
+    {
+      "name": "🛠️𝐀𝐯𝐢𝐬𝐨𝐬🛠️",
+      "type": 5,
+      "position": 2,
+      "permissionOverwrites": [
+        {
+          "type": 1,
+          "id": "1078839105653313556",
+          "allow": "1024",
+          "deny": "0"
+        },
+        {
+          "type": 0,
+          "id": "novo cargo",
+          "allow": "0",
+          "deny": "377959221312"
+        },
+        {
+          "type": 0,
+          "id": "🛠️𝐒𝐮𝐛 𝐎𝐰𝐧𝐞𝐫 🛠️",
+          "allow": "1024",
+          "deny": "0"
+        },
+        {
+          "type": 0,
+          "id": "@everyone",
+          "allow": "1024",
+          "deny": "2048"
+        }
+      ],
+      "categoryName": "‼️𝐈𝐦𝐩𝐨𝐫𝐭𝐚𝐧𝐭𝐞‼️",
+      "nsfw": false
+    },
+    {
+      "name": "🗣️𝐃𝐞𝐛𝐚𝐭𝐞𝐬🗣️",
+      "type": 0,
+      "position": 2,
+      "permissionOverwrites": [
+        {
+          "type": 0,
+          "id": "novo cargo",
+          "allow": "0",
+          "deny": "377959221312"
+        },
+        {
+          "type": 0,
+          "id": "✅𝐕𝐞𝐫𝐢𝐟𝐢𝐜𝐚𝐝𝐨✅",
+          "allow": "4332765192773441",
+          "deny": "4521600670113808"
+        },
+        {
+          "type": 0,
+          "id": "@everyone",
+          "allow": "0",
+          "deny": "8854365862887249"
+        }
+      ],
+      "categoryName": "🪐-𝗖𝗲𝗻𝘁𝗿𝗼-🪐",
+      "nsfw": false,
+      "rateLimitPerUser": 0
+    },
+    {
+      "name": "📞𝗖𝗮𝗹𝗹-𝟑📞",
+      "type": 2,
+      "position": 3,
+      "permissionOverwrites": [
+        {
+          "type": 0,
+          "id": "novo cargo",
+          "allow": "0",
+          "deny": "377959221312"
+        },
+        {
+          "type": 0,
+          "id": "✅𝐕𝐞𝐫𝐢𝐟𝐢𝐜𝐚𝐝𝐨✅",
+          "allow": "2080965379088193",
+          "deny": "17601610784784"
+        },
+        {
+          "type": 0,
+          "id": "@everyone",
+          "allow": "0",
+          "deny": "2098566989872977"
+        }
+      ],
+      "categoryName": "📞𝐂𝐚𝐥𝐥📞",
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "userLimit": 0,
+      "bitrate": 64000
+    },
+    {
+      "name": "𝗣𝗼𝗸𝗲𝗧𝘄𝗼",
+      "type": 0,
+      "position": 3,
+      "permissionOverwrites": [
+        {
+          "type": 1,
+          "id": "716390085896962058",
+          "allow": "2147609664",
+          "deny": "0"
+        },
+        {
+          "type": 0,
+          "id": "novo cargo",
+          "allow": "0",
+          "deny": "377959221312"
+        },
+        {
+          "type": 1,
+          "id": "874910942490677270",
+          "allow": "551903415360",
+          "deny": "0"
+        },
+        {
+          "type": 0,
+          "id": "✅𝐕𝐞𝐫𝐢𝐟𝐢𝐜𝐚𝐝𝐨✅",
+          "allow": "4011707760761921",
+          "deny": "4503995569807376"
+        },
+        {
+          "type": 0,
+          "id": "@everyone",
+          "allow": "0",
+          "deny": "8515703330569297"
+        }
+      ],
+      "categoryName": "𝐁𝐨𝐭𝐬",
+      "nsfw": false,
+      "rateLimitPerUser": 0
+    },
+    {
+      "name": "❗𝐕𝐨𝐭𝐚𝐜̧𝐚̃𝐨❗",
+      "type": 0,
+      "position": 3,
+      "permissionOverwrites": [
+        {
+          "type": 0,
+          "id": "novo cargo",
+          "allow": "0",
+          "deny": "377959221312"
+        },
+        {
+          "type": 0,
+          "id": "✅𝐕𝐞𝐫𝐢𝐟𝐢𝐜𝐚𝐝𝐨✅",
+          "allow": "1024",
+          "deny": "0"
+        },
+        {
+          "type": 0,
+          "id": "@everyone",
+          "allow": "0",
+          "deny": "3072"
+        }
+      ],
+      "categoryName": "‼️𝐈𝐦𝐩𝐨𝐫𝐭𝐚𝐧𝐭𝐞‼️",
+      "nsfw": false,
+      "rateLimitPerUser": 0
+    },
+    {
+      "name": "🛠️𝐑𝐞𝐮𝐧𝐢𝐚̃𝐨🛠️",
+      "type": 0,
+      "position": 3,
+      "permissionOverwrites": [
+        {
+          "type": 0,
+          "id": "novo cargo",
+          "allow": "0",
+          "deny": "377959221312"
+        },
+        {
+          "type": 0,
+          "id": "@everyone",
+          "allow": "0",
+          "deny": "1024"
+        }
+      ],
+      "categoryName": "🛠️𝗠𝗼𝗱𝗲𝗿𝗮𝗰̧𝗮̃𝗼🛠️",
+      "nsfw": false,
+      "rateLimitPerUser": 0
+    },
+    {
+      "name": "ausente-staff",
+      "type": 0,
+      "position": 3,
+      "permissionOverwrites": [
+        {
+          "type": 0,
+          "id": "@everyone",
+          "allow": "0",
+          "deny": "1049600"
+        },
+        {
+          "type": 0,
+          "id": "🛠️𝐌𝐨𝐝𝐞𝐫𝐚𝐝𝐨r🛠️",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "type": 0,
+          "id": "novo cargo",
+          "allow": "0",
+          "deny": "377959221312"
+        },
+        {
+          "type": 0,
+          "id": "⚙️𝐄𝐧𝐠𝐞𝐧𝐡𝐞𝐢𝐫𝐚⚙️",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "type": 0,
+          "id": "🛠️𝐌𝐨𝐝𝐞𝐫𝐚𝐝𝐨𝐫🛠️",
+          "allow": "1049600",
+          "deny": "0"
+        }
+      ],
+      "categoryName": "Staff priv",
+      "nsfw": false,
+      "rateLimitPerUser": 0
+    },
+    {
+      "name": "🤖𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐨𝐬🤖",
+      "type": 0,
+      "position": 3,
+      "permissionOverwrites": [
+        {
+          "type": 0,
+          "id": "novo cargo",
+          "allow": "0",
+          "deny": "377959221312"
+        },
+        {
+          "type": 0,
+          "id": "✅𝐕𝐞𝐫𝐢𝐟𝐢𝐜𝐚𝐝𝐨✅",
+          "allow": "2885807853919297",
+          "deny": "0"
+        },
+        {
+          "type": 0,
+          "id": "@everyone",
+          "allow": "0",
+          "deny": "3072"
+        }
+      ],
+      "categoryName": "🪐-𝗖𝗲𝗻𝘁𝗿𝗼-🪐",
+      "nsfw": false,
+      "rateLimitPerUser": 0
+    },
+    {
+      "name": "mural-staff",
+      "type": 0,
+      "position": 4,
+      "permissionOverwrites": [
+        {
+          "type": 0,
+          "id": "🛠️𝐌𝐨𝐝𝐞𝐫𝐚𝐝𝐨𝐫🛠️",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "type": 0,
+          "id": "🛠️𝐌𝐨𝐝𝐞𝐫𝐚𝐝𝐨r🛠️",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "type": 0,
+          "id": "novo cargo",
+          "allow": "0",
+          "deny": "377959221312"
+        },
+        {
+          "type": 0,
+          "id": "⚙️𝐄𝐧𝐠𝐞𝐧𝐡𝐞𝐢𝐫𝐚⚙️",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "type": 0,
+          "id": "@everyone",
+          "allow": "0",
+          "deny": "1049600"
+        }
+      ],
+      "categoryName": "Staff priv",
+      "nsfw": false,
+      "rateLimitPerUser": 0
+    },
+    {
+      "name": "📞𝐃𝐮𝐨📞",
+      "type": 2,
+      "position": 4,
+      "permissionOverwrites": [
+        {
+          "type": 0,
+          "id": "novo cargo",
+          "allow": "0",
+          "deny": "377959221312"
+        },
+        {
+          "type": 0,
+          "id": "✅𝐕𝐞𝐫𝐢𝐟𝐢𝐜𝐚𝐝𝐨✅",
+          "allow": "1024",
+          "deny": "0"
+        },
+        {
+          "type": 1,
+          "id": "952198262364971038",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "type": 0,
+          "id": "Sky",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "type": 1,
+          "id": "1124559430965526658",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "type": 0,
+          "id": "@everyone",
+          "allow": "0",
+          "deny": "1024"
+        }
+      ],
+      "categoryName": "📞𝐂𝐚𝐥𝐥📞",
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "userLimit": 2,
+      "bitrate": 64000
+    },
+    {
+      "name": "📖𝐃𝐞𝐬𝐞𝐧𝐡𝐨𝐬📖",
+      "type": 0,
+      "position": 4,
+      "permissionOverwrites": [
+        {
+          "type": 0,
+          "id": "novo cargo",
+          "allow": "0",
+          "deny": "377959221312"
+        },
+        {
+          "type": 0,
+          "id": "✅𝐕𝐞𝐫𝐢𝐟𝐢𝐜𝐚𝐝𝐨✅",
+          "allow": "2885255950621761",
+          "deny": "0"
+        },
+        {
+          "type": 0,
+          "id": "@everyone",
+          "allow": "0",
+          "deny": "3072"
+        }
+      ],
+      "categoryName": "🪐-𝗖𝗲𝗻𝘁𝗿𝗼-🪐",
+      "nsfw": false,
+      "rateLimitPerUser": 0
+    },
+    {
+      "name": "𝐃𝐚𝐧𝐤-𝐌𝐄𝐌𝐄",
+      "type": 0,
+      "position": 4,
+      "permissionOverwrites": [
+        {
+          "type": 0,
+          "id": "novo cargo",
+          "allow": "0",
+          "deny": "377959221312"
+        },
+        {
+          "type": 0,
+          "id": "✅𝐕𝐞𝐫𝐢𝐟𝐢𝐜𝐚𝐝𝐨✅",
+          "allow": "4332765192771393",
+          "deny": "4521600670115856"
+        },
+        {
+          "type": 0,
+          "id": "@everyone",
+          "allow": "0",
+          "deny": "8854365862887249"
+        }
+      ],
+      "categoryName": "𝐁𝐨𝐭𝐬",
+      "nsfw": false,
+      "rateLimitPerUser": 0
+    },
+    {
+      "name": "📞𝐓𝐫𝐢𝐨📞",
+      "type": 2,
+      "position": 5,
+      "permissionOverwrites": [
+        {
+          "type": 0,
+          "id": "novo cargo",
+          "allow": "0",
+          "deny": "377959221312"
+        },
+        {
+          "type": 0,
+          "id": "✅𝐕𝐞𝐫𝐢𝐟𝐢𝐜𝐚𝐝𝐨✅",
+          "allow": "1024",
+          "deny": "0"
+        },
+        {
+          "type": 1,
+          "id": "952198262364971038",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "type": 0,
+          "id": "Sky",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "type": 1,
+          "id": "1124559430965526658",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "type": 0,
+          "id": "@everyone",
+          "allow": "0",
+          "deny": "1024"
+        }
+      ],
+      "categoryName": "📞𝐂𝐚𝐥𝐥📞",
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "userLimit": 3,
+      "bitrate": 64000
+    },
+    {
+      "name": "𝐊𝐚𝐫𝐮𝐭𝐚",
+      "type": 0,
+      "position": 5,
+      "permissionOverwrites": [
+        {
+          "type": 0,
+          "id": "novo cargo",
+          "allow": "0",
+          "deny": "377959221312"
+        },
+        {
+          "type": 0,
+          "id": "✅𝐕𝐞𝐫𝐢𝐟𝐢𝐜𝐚𝐝𝐨✅",
+          "allow": "4332765192773441",
+          "deny": "4521600670113808"
+        },
+        {
+          "type": 0,
+          "id": "@everyone",
+          "allow": "0",
+          "deny": "8854365862886225"
+        }
+      ],
+      "categoryName": "𝐁𝐨𝐭𝐬",
+      "nsfw": false,
+      "rateLimitPerUser": 0
+    },
+    {
+      "name": "🎵𝐌𝐮𝐬𝐢𝐜𝐚 𝟭🎵",
+      "type": 2,
+      "position": 6,
+      "permissionOverwrites": [
+        {
+          "type": 0,
+          "id": "novo cargo",
+          "allow": "0",
+          "deny": "377959221312"
+        },
+        {
+          "type": 0,
+          "id": "✅𝐕𝐞𝐫𝐢𝐟𝐢𝐜𝐚𝐝𝐨✅",
+          "allow": "2080965379088193",
+          "deny": "17601610784784"
+        },
+        {
+          "type": 0,
+          "id": "@everyone",
+          "allow": "0",
+          "deny": "2098566989872977"
+        }
+      ],
+      "categoryName": "📞𝐂𝐚𝐥𝐥📞",
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "userLimit": 0,
+      "bitrate": 64000
+    },
+    {
+      "name": "𝐓𝐫𝐢𝐯𝐢𝐚𝐥-𝐁𝐨𝐭",
+      "type": 0,
+      "position": 6,
+      "permissionOverwrites": [
+        {
+          "type": 0,
+          "id": "novo cargo",
+          "allow": "0",
+          "deny": "377959221312"
+        },
+        {
+          "type": 0,
+          "id": "✅𝐕𝐞𝐫𝐢𝐟𝐢𝐜𝐚𝐝𝐨✅",
+          "allow": "4332765192771393",
+          "deny": "4521600670115856"
+        },
+        {
+          "type": 0,
+          "id": "@everyone",
+          "allow": "0",
+          "deny": "8854365862887249"
+        }
+      ],
+      "categoryName": "𝐁𝐨𝐭𝐬",
+      "nsfw": false,
+      "rateLimitPerUser": 0
+    },
+    {
+      "name": "🎵𝐌𝐮𝐬𝐢𝐜𝐚 𝟮🎵",
+      "type": 2,
+      "position": 7,
+      "permissionOverwrites": [
+        {
+          "type": 0,
+          "id": "novo cargo",
+          "allow": "0",
+          "deny": "377959221312"
+        },
+        {
+          "type": 0,
+          "id": "✅𝐕𝐞𝐫𝐢𝐟𝐢𝐜𝐚𝐝𝐨✅",
+          "allow": "2080965379088193",
+          "deny": "17601610784784"
+        },
+        {
+          "type": 0,
+          "id": "@everyone",
+          "allow": "0",
+          "deny": "2098566989872977"
+        }
+      ],
+      "categoryName": "📞𝐂𝐚𝐥𝐥📞",
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "userLimit": 0,
+      "bitrate": 64000
+    },
+    {
+      "name": "spam",
+      "type": 0,
+      "position": 7,
+      "permissionOverwrites": [
+        {
+          "type": 1,
+          "id": "716390085896962058",
+          "allow": "1024",
+          "deny": "0"
+        },
+        {
+          "type": 1,
+          "id": "874910942490677270",
+          "allow": "1024",
+          "deny": "0"
+        },
+        {
+          "type": 0,
+          "id": "novo cargo",
+          "allow": "0",
+          "deny": "377959221312"
+        },
+        {
+          "type": 0,
+          "id": "Poketwo",
+          "allow": "8515582266039361",
+          "deny": "120259223552"
+        },
+        {
+          "type": 0,
+          "id": "@everyone",
+          "allow": "0",
+          "deny": "8515703330569297"
+        }
+      ],
+      "categoryName": "𝐁𝐨𝐭𝐬",
+      "nsfw": false,
+      "rateLimitPerUser": 0
+    },
+    {
+      "name": "🎵𝐌𝐮𝐬𝐢𝐜𝐚 𝟑🎵",
+      "type": 2,
+      "position": 8,
+      "permissionOverwrites": [
+        {
+          "type": 0,
+          "id": "novo cargo",
+          "allow": "0",
+          "deny": "377959221312"
+        },
+        {
+          "type": 0,
+          "id": "✅𝐕𝐞𝐫𝐢𝐟𝐢𝐜𝐚𝐝𝐨✅",
+          "allow": "2098566155067201",
+          "deny": "834805776"
+        },
+        {
+          "type": 0,
+          "id": "@everyone",
+          "allow": "0",
+          "deny": "2098566989872977"
+        }
+      ],
+      "categoryName": "📞𝐂𝐚𝐥𝐥📞",
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "userLimit": 0,
+      "bitrate": 64000
+    },
+    {
+      "name": "📞Secret📞",
+      "type": 2,
+      "position": 9,
+      "permissionOverwrites": [
+        {
+          "type": 0,
+          "id": "novo cargo",
+          "allow": "0",
+          "deny": "377959221312"
+        },
+        {
+          "type": 1,
+          "id": "952198262364971038",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "type": 0,
+          "id": "Sky",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "type": 1,
+          "id": "1124559430965526658",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "type": 0,
+          "id": "@everyone",
+          "allow": "0",
+          "deny": "1049600"
+        }
+      ],
+      "categoryName": "📞𝐂𝐚𝐥𝐥📞",
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "userLimit": 2,
+      "bitrate": 64000
+    },
+    {
+      "name": "☠️Privado☠️11",
+      "type": 2,
+      "position": 10,
+      "permissionOverwrites": [
+        {
+          "type": 0,
+          "id": "@everyone",
+          "allow": "0",
+          "deny": "1049600"
+        },
+        {
+          "type": 0,
+          "id": "novo cargo",
+          "allow": "0",
+          "deny": "377959221312"
+        },
+        {
+          "type": 0,
+          "id": "Sky",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "type": 1,
+          "id": "1124559430965526658",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "type": 1,
+          "id": "1078839105653313556",
+          "allow": "1049600",
+          "deny": "0"
+        }
+      ],
+      "categoryName": "📞𝐂𝐚𝐥𝐥📞",
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "userLimit": 0,
+      "bitrate": 64000
+    }
+  ]
+}

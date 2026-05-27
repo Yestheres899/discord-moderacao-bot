@@ -1,0 +1,8 @@
+node_modules
+artifacts/discord-bot/data
+artifacts/api-server
+artifacts/mockup-sandbox
+.local
+.git
+*.log
+push-github.sh
